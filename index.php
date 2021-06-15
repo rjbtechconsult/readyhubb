@@ -27,6 +27,6 @@
         <!-- JS dependencies -->
         <?php include 'assets/dependencies/css.php';?>
 
-        <!-- Include independent JS file here -->
+        <!-- Include independent JS file here --> 
     </body>
 </html>
